@@ -4,6 +4,7 @@
 constexpr const int RUN_TIME_ERROR = 1;
 
 int main() {
+
     Controller controller;
 
     try {
